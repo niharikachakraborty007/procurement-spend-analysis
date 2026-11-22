@@ -81,19 +81,7 @@ Key measures developed include:
 - Monthly procurement trend
 - Supplier spending comparison
 - Top five products by spend
-- 
-## Dashboard Previews
-
-### 1. Executive Overview
-![Executive Overview](screenshots/Executive%20Overview.png)
-
-### 2. Supplier & Buyer Analysis
-![Supplier and Buyer Analysis](screenshots/Supplier-buyer%20analysis.png)
-
-### 3. Product & Spending Analysis
-![Product Spending Analysis](screenshots/Product%20Spending%20Analysis.png)
-
-
+  
 ### 2. Supplier & Buyer Analysis
 - Supplier and buyer KPIs
 - Supplier contribution analysis
@@ -108,6 +96,18 @@ Key measures developed include:
 - Detailed product spend table
 
 Interactive slicers allow users to filter the report by date, category, supplier, buyer and product.
+
+## Dashboard Previews
+
+### 1. Executive Overview
+![Executive Overview](screenshots/Executive%20Overview.png)
+
+### 2. Supplier & Buyer Analysis
+![Supplier and Buyer Analysis](screenshots/Supplier-buyer%20analysis.png)
+
+### 3. Product & Spending Analysis
+![Product Spending Analysis](screenshots/Product%20Spending%20Analysis.png)
+
 
 ## Key Findings
 
