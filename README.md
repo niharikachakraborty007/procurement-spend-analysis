@@ -100,7 +100,8 @@ Interactive slicers allow users to filter the report by date, category, supplier
 ## Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](screenshots/Executive%20Overview.png)
+
+![Executive Overview](screenshots/Executive%20Overview%20.png)
 
 ### 2. Supplier & Buyer Analysis
 ![Supplier and Buyer Analysis](screenshots/Supplier-buyer%20analysis.png)
